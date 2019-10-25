@@ -20,5 +20,4 @@
  4a. no. there are some groups of data points that shows reduction of heart desease cases.
  4b. the higher the age group you belong to, the higher the risk you have
  4c. dividing the datasets into groups and run the model separately would help.
- 4d. 
-
+ 4d. Plot! and divide datapoints based on age
